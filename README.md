@@ -104,4 +104,9 @@ The load is **ON**
 * Logic-level interfacing
 
 ---
+<img width="546" height="403" alt="image" src="https://github.com/user-attachments/assets/5cfd8e1c-8279-468e-a259-62e387e71d03" />
+
+<img width="376" height="279" alt="image" src="https://github.com/user-attachments/assets/1e5ecbd0-ab2f-4b20-b248-b45fe56137f5" />
+
+<img width="498" height="307" alt="image" src="https://github.com/user-attachments/assets/e00a0990-3bab-4aec-8655-74748dcc50cf" />
 
