@@ -1,7 +1,3 @@
-Below is a **clean, GitHub-ready README section** you can paste directly into your project.
-It’s written for **analog electronics simulations** (Proteus / LTspice / Multisim), clear enough for reviewers, and technically correct for an EE project.
-
----
 
 ## 1️⃣ Transistor as a Switch
 
